@@ -15,9 +15,9 @@ keywords:
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: github_wylchina/github_wylchina.github.io
-github_url: https://github.com/github_wylchina
-url: https://github_wylchina.github.io
+repository: wylchina/wylchina.github.io
+github_url: https://github.com/wylchina
+url: https://wylchina.github.io
 enforce_ssl: wylchina.com
 
 ## Gem
