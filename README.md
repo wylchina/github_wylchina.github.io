@@ -3,4 +3,4 @@
 这是我的个人博客项目，里面会记录生活和技术的点点滴滴。
 
 
-访问地址：[https://github.com/wylchina/github_wylchina.github.io/](https://github.com/wylchina/github_wylchina.github.io)
+访问地址：[https://wylchina.github.io/github_wylchina.github.io/]https://wylchina.github.io/github_wylchina.github.io/)
